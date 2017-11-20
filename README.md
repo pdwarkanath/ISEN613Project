@@ -1,2 +1,2 @@
 # ISEN613Project
-Code from ISEN 613 project in R
+Repo for ISEN 613 Project code and files
